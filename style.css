@@ -1,0 +1,78 @@
+body {
+    background-color: rgba(250, 189, 245, 0.788);
+    background-image: url('https://i.pinimg.com/736x/e6/31/91/e6319172b7b8919394d141c8f8848b65.jpg');
+    background-repeat: no-repeat;
+    background-image: fixed;
+    background-image: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+}
+#t1 {
+    font-size: 50px;
+    font-family: 'Segoe UI';
+    color:lightyellow ;
+    text-align: center;
+    padding-top: 220px;
+   text-shadow: 
+   2px 2px 0 #000,
+   -1px 1px 0 #000,
+   -1px -1px 0 #000,
+   1px -1px 0 #000;
+}
+button {
+    font-size: 30px;
+    font-family: impact;
+    border-width: 2px;
+    border-radius: 40px;
+    border-style: groove;
+    padding: 20px;
+    width: 200px;
+    margin-left: 235px;
+    color:rgb(0, 0, 0);
+    background-color:white;
+    border-color: black;
+}
+.mvt1 {
+    position: absolute;
+    top: 42px;
+    left: 4px;
+}
+.mvt2 {
+    position: absolute;
+    bottom: 8px;
+    left: 2px;
+}
+.mvt3 {
+    position: absolute;
+    top: 18px;
+    right: 105px;
+}
+#texto_oculto {
+    font-size: 60px;
+    font-family: 'Segoe UI';
+    color:lightyellow ;
+    text-align: center;
+    padding-top: 220px;
+   text-shadow: 
+   2px 2px 0 #000,
+   -1px 1px 0 #000,
+   -1px -1px 0 #000,
+   1px -1px 0 #000;
+}
+#dedicatoria {
+    font-size: 30px;
+    font-family: impact;
+    text-shadow: 
+    2px 2px 0 #000,
+    -1px 1px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000;
+    color:white;
+    text-align:left;
+    padding-left: 25px;
+    padding-top: 120px;
+}
